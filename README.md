@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/sine27/GithubDemo/demo.gif' width='270' alt='Video Walkthrough' />
+<img src='https://github.com/sine27/GithubDemo/blob/master/demo.gif' width='270' alt='Video Walkthrough' />
 
 ## Notes
 
